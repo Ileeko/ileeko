@@ -7,7 +7,8 @@
 
 <h3 align="center">
   
-  A dedicated data analyst from Berlin <br/>
+  A dedicated data analyst from Berlin 🍻
+  <br/>
   <img src="https://github.com/user-attachments/assets/48622c4c-4105-4190-b328-946b2c046f67"/>
   
 </h3>
@@ -16,13 +17,13 @@
 
 <div align="center">
  
-In my journey, I strive to:
+<h4>In my journey, I strive to:</h4>
 
   🌐 Navigate the vast seas of data with precision and curiosity <br/>
   🔍 Unearth hidden insights and patterns that tell compelling stories <br/>
   🛠️ Craft visualizations that illuminate the data's narrative <br/>
 
-My toolkit includes:
+ <h4>My toolkit includes:</h4>
 
   Python 🐍 | Pandas | NumPy for data manipulation and analysis <br/>
   SQL 🗃️ for structured data exploration <br/>
