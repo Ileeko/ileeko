@@ -7,7 +7,7 @@
 
 <h3 align="center">
   
-  A dedicated data analyst from Berlin 
+  A dedicated data analyst from Berlin <br/>
   <img src="https://github.com/user-attachments/assets/48622c4c-4105-4190-b328-946b2c046f67"/>
   
 </h3>
