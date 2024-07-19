@@ -45,5 +45,18 @@
 <br/>
 <div align="center">
     <img src="icons/python.svg" alt="Python" width="50" height="50"/>
+    <img src="icons/sql.svg" alt="SQL" width="50" height="50"/>
+    <img src="icons/tableau.svg" alt="Tableau" width="50" height="50"/>
+    <img src="icons/matplotlib.svg" alt="Matplotlib" width="50" height="50"/>
+    <img src="icons/scikitlearn.svg" alt="Scikit-Learn" width="50" height="50"/>
+</div>
+<div align="center">
     <img src="icons/pandas.svg" alt="Pandas" width="50" height="50"/>
+    <img src="icons/numpy.svg" alt="Numpy" width="50" height="50"/>
+    <img src="icons/seaborn.svg" alt="Seaborn" width="50" height="50"/>
+    <img src="icons/plotly.svg" alt="Plotly" width="50" height="50"/>
+    <img src="icons/folium.svg" alt="Folium" width="50" height="50"/>
+    <img src="icons/streamlit.svg" alt="Streamlit" width="50" height="50"/>
+    <img src="icons/gcp.svg" alt="Google-Cloud-Platform" width="50" height="50"/>
+    <img src="icons/aws.svg" alt="AWS" width="50" height="50"/>
 </div>
