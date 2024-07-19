@@ -9,7 +9,7 @@
   
   A dedicated data analyst from Berlin 🍻
   <br/>
-  <img src="https://github.com/user-attachments/assets/48622c4c-4105-4190-b328-946b2c046f67"  width="300" height="350"/>
+  <img src="https://github.com/user-attachments/assets/48622c4c-4105-4190-b328-946b2c046f67"  width="200" height="250"/>
   
 </h3>
 
