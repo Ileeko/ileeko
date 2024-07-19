@@ -16,27 +16,16 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+In my journey, I strive to:
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🌐 Navigate the vast seas of data with precision and curiosity
+🔍 Unearth hidden insights and patterns that tell compelling stories
+🛠️ Craft visualizations that illuminate the data's narrative
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+My toolkit includes:
 
- </div>
+Python 🐍 | Pandas | NumPy for data manipulation and analysis
+SQL 🗃️ for structured data exploration
+Data Visualization 🎨 | Matplotlib | Seaborn | Tableau for bringing data to life
 
-<!--
-**Ileeko/ileeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
