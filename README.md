@@ -31,9 +31,9 @@ My toolkit includes:
 </div>
 <div align="center">
   <a href="mailto:bilelkacem.de@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/bilel-kacem" target="_blank">
+  <a href="https://linkedin.com/in/bilel-kacem" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
