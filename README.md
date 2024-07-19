@@ -6,19 +6,21 @@
 </h1>
 
 <h3 align="center">A dedicated data analyst from Berlin 🍻</h3>
-<img src="https://github.com/user-attachments/assets/48622c4c-4105-4190-b328-946b2c046f67"  width="200" height="250"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/48622c4c-4105-4190-b328-946b2c046f67"  width="200" height="220"/>
+</div>
 
 <br/>
 
 <div align="center">
  
-<h3>In my journey, I strive to:</h3>
+  <h3>In my journey, I strive to:</h3>
 
   🌐 Navigate the vast seas of data with precision and curiosity <br/>
   🔍 Unearth hidden insights and patterns that tell compelling stories <br/>
   🛠️ Craft visualizations that illuminate the data's narrative <br/>
 
- <h3>My toolkit includes:</h3>
+   <h3>My toolkit includes:</h3>
 
   Python 🐍 | Pandas | NumPy for data manipulation and analysis <br/>
   SQL 🗃️ for structured data exploration <br/>
