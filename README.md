@@ -18,14 +18,14 @@
  
 In my journey, I strive to:
 
-🌐 Navigate the vast seas of data with precision and curiosity
-🔍 Unearth hidden insights and patterns that tell compelling stories
-🛠️ Craft visualizations that illuminate the data's narrative
+  🌐 Navigate the vast seas of data with precision and curiosity <br/>
+  🔍 Unearth hidden insights and patterns that tell compelling stories <br/>
+  🛠️ Craft visualizations that illuminate the data's narrative <br/>
 
 My toolkit includes:
 
-Python 🐍 | Pandas | NumPy for data manipulation and analysis
-SQL 🗃️ for structured data exploration
-Data Visualization 🎨 | Matplotlib | Seaborn | Tableau for bringing data to life
+  Python 🐍 | Pandas | NumPy for data manipulation and analysis <br/>
+  SQL 🗃️ for structured data exploration <br/>
+  Data Visualization 🎨 | Matplotlib | Seaborn | Tableau for bringing data to life <br/>
 
 </div>
