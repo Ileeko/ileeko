@@ -17,14 +17,14 @@
   <h3>In my journey, I strive to:</h3>
 
   🌐 Navigate the vast seas of data with precision and curiosity <br/>
-  🔍 Unearth hidden insights and patterns that tell compelling stories <br/>
+  📈 Unearth hidden insights and patterns that tell compelling stories <br/>
   🛠️ Craft visualizations that illuminate the data's narrative <br/>
 
    <h3>My toolkit includes:</h3>
 
   Python 🐍 | Pandas | NumPy for data manipulation and analysis <br/>
   SQL 🗃️ for structured data exploration <br/>
-  Data Visualization 🎨 | Matplotlib | Seaborn | Tableau for bringing data to life <br/>
+  Data Visualization 📊 | Matplotlib | Seaborn | Tableau for bringing data to life <br/>
 
 </div>
 <div align="center">
@@ -38,7 +38,7 @@
 
 <hr/>
  
-<h2 align="center">📚 Data Tools & Frameworks 📚</h2>
+<h2 align="center">🔧 Data Tools & Frameworks 🔧</h2>
 <br/>
 <div align="center">
     <img src="icons/python.svg" alt="Python" width="50" height="50" title="Python - Programming Language"/>
