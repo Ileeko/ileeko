@@ -41,21 +41,21 @@
 <h2 align="center">📚 Data Tools & Frameworks 📚</h2>
 <br/>
 <div align="center">
-    <img src="icons/python.svg" alt="Python" width="50" height="50"/>
-    <img src="icons/sql.svg" alt="SQL" width="50" height="50"/>
-    <img src="icons/tableau.svg" alt="Tableau" width="50" height="50"/>
-    <img src="icons/matplotlib.svg" alt="Matplotlib" width="50" height="50"/>
-    <img src="icons/scikitlearn.svg" alt="Scikit-Learn" width="50" height="50"/>
+    <img src="icons/python.svg" alt="Python" width="50" height="50" title="Python - Programming Language"/>
+    <img src="icons/sql.svg" alt="SQL" width="50" height="50" title="SQL - Query Language"/>
+    <img src="icons/tableau.svg" alt="Tableau" width="50" height="50" title="Tableau - Data Visualization Tool"/>
+    <img src="icons/matplotlib.svg" alt="Matplotlib" width="50" height="50" title="Matplotlib - Python Visualization Library"/>
+    <img src="icons/scikitlearn.svg" alt="Scikit-Learn" width="50" height="50" title="Scikit-Learn - Machine Learning Library"/>
 </div>
 <div align="center">
-    <img src="icons/pandas.svg" alt="Pandas" width="50" height="50"/>
-    <img src="icons/numpy.svg" alt="Numpy" width="50" height="50"/>
-    <img src="icons/seaborn.svg" alt="Seaborn" width="50" height="50"/>
-    <img src="icons/plotly.svg" alt="Plotly" width="50" height="50"/>
-    <img src="icons/folium.svg" alt="Folium" width="50" height="50"/>
-    <img src="icons/streamlit.svg" alt="Streamlit" width="50" height="50"/>
-    <img src="icons/gcp.svg" alt="Google-Cloud-Platform" width="50" height="50"/>
-    <img src="icons/aws.svg" alt="AWS" width="50" height="50"/>
+    <img src="icons/pandas.svg" alt="Pandas" width="50" height="50" title="Pandas - Data Manipulation Library"/>
+    <img src="icons/numpy.svg" alt="Numpy" width="50" height="50" title="NumPy - Numerical Computing Library"/>
+    <img src="icons/seaborn.svg" alt="Seaborn" width="50" height="50" title="Seaborn - Statistical Data Visualization"/>
+    <img src="icons/plotly.svg" alt="Plotly" width="50" height="50" title="Plotly - Interactive Graphing Library"/>
+    <img src="icons/folium.svg" alt="Folium" width="50" height="50" title="Folium - Interactive Maps"/>
+    <img src="icons/streamlit.svg" alt="Streamlit" width="50" height="50" title="Streamlit - Data App Framework"/>
+    <img src="icons/gcp.svg" alt="Google-Cloud-Platform" width="50" height="50" title="Google Cloud Platform - Cloud Services"/>
+    <img src="icons/aws.svg" alt="AWS" width="50" height="50" title="AWS - Amazon Web Services"/>
 </div>
 
 <hr/>
