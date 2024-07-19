@@ -60,3 +60,18 @@
     <img src="icons/gcp.svg" alt="Google-Cloud-Platform" width="50" height="50"/>
     <img src="icons/aws.svg" alt="AWS" width="50" height="50"/>
 </div>
+
+<hr/>
+
+<div align="center">
+ 
+  <h3>✨ Inspiration:</h3>
+  
+  <p>I find inspiration in the patterns of nature and the rhythm of everyday life. 
+  Data is everywhere, and I'm fascinated by how it mirrors the world around us.</p>
+
+ <h3>🤝 Let's Connect:</h3>
+ 
+ <p>I’m always eager to collaborate on exciting projects or just chat about the latest in data science and analytics. Feel free to reach out or connect with me!</p>
+
+</div>
