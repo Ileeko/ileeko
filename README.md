@@ -3,6 +3,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=50&duration=4935&pause=900&color=F7F728&center=true&vCenter=true&width=435&lines=Hello+World!+👋;I'm+Bilel+Kacem" alt="Typing SVG"
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
