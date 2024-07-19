@@ -5,7 +5,8 @@
 
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A dedicated data analyst from Berlin ![DanceTanzenGIF](https://github.com/user-attachments/assets/48622c4c-4105-4190-b328-946b2c046f67)
+<br/> weaving insights from the threads of data to drive meaningful change.</h3>
 
 <br/>
 
